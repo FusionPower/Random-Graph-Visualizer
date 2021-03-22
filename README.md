@@ -4,8 +4,11 @@ Pygame random graph generator and visualizer
 Commands:
 
 e- Generates random graph with Erdos Renyi
+
 m- Generates random graph with sample of m edges with Erdos Renyi
+
 a- Generates random Tree (set max children (spanish) to 2 to get binary tree)
+
 c- Generates random connected graph
 
 
